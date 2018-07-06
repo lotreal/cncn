@@ -1,0 +1,5 @@
+p3env
+p2env
+*.pyc
+__pycache__
+*.egg-info
